@@ -1,6 +1,4 @@
-//
-// Created by heisenberg on 12/17/24.
-//
+
 #include<bits/stdc++.h>
 #include "../RubiksCube.h"
 #ifndef BFS_H
